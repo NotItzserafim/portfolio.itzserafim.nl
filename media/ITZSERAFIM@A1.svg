@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 953.26 648.98">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+        font-size: 81px;
+      }
+
+      .cls-1, .cls-3 {
+        font-family: 'MontserratItalic_244.000wght', Montserrat;
+        font-variation-settings: 'wght' 244;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        font-size: 147px;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6, .cls-7 {
+        font-family: 'MontserratItalic_668.000wght', Montserrat;
+        font-variation-settings: 'wght' 668;
+      }
+
+      .cls-8 {
+        font-family: MontserratItalic-Black, Montserrat;
+        font-variation-settings: 'wght' 900;
+        font-weight: 800;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1_copy_3" data-name="Layer 1 copy 3">
+    <text class="cls-5" transform="translate(11 557)"><tspan class="cls-8" x="0" y="0">ITZ</tspan><tspan class="cls-7" x="248.57" y="0">SERAFIM</tspan></text>
+    <rect y="564" width="938" height="74"/>
+    <text class="cls-1" transform="translate(0 628)"><tspan class="cls-4" x="0" y="0">O</tspan><tspan x="66.99" y="0">THER</tspan></text>
+  </g>
+  <g id="Layer_1" data-name="Layer 1">
+    <g>
+      <text class="cls-5" transform="translate(11 124.95)"><tspan class="cls-8" x="0" y="0">ITZ</tspan><tspan class="cls-7" x="248.57" y="0">SERAFIM</tspan></text>
+      <rect y="131.95" width="938" height="74"/>
+      <text class="cls-2" transform="translate(0 195.95)"><tspan class="cls-3" x="0" y="0">SOCIALMEDIA</tspan><tspan class="cls-6" x="581.17" y="0" xml:space="preserve"> GROUP</tspan></text>
+    </g>
+  </g>
+  <g id="Layer_1_copy" data-name="Layer 1 copy">
+    <text class="cls-5" transform="translate(11 343)"><tspan class="cls-8" x="0" y="0">ITZ</tspan><tspan class="cls-7" x="248.57" y="0">SERAFIM</tspan></text>
+    <rect y="350" width="938" height="74"/>
+    <text class="cls-2" transform="translate(0 414)"><tspan class="cls-3" x="0" y="0">DESIGNS </tspan><tspan class="cls-7" x="392.2" y="0">GROUP</tspan></text>
+  </g>
+</svg>
